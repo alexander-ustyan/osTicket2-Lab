@@ -82,7 +82,7 @@ In osTicket, navigate to Agent Panel → Users → Add New to register new users
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rnivp61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Manage → SLA to establish SLA policies that ensure timely ticket resolution based on severity levels:
@@ -95,7 +95,7 @@ This SLA framework helps optimize response times, prioritize urgent requests, an
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EtEFaPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Manage → Help Topics to create predefined categories for user inquiries. Set up structured help topics to improve ticket routing and resolution, including:
