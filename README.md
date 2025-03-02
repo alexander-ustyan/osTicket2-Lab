@@ -44,7 +44,7 @@ In osTicket, navigate to Admin Panel → Agents → Departments to set up depart
 <br />
 
 <p>
-<img src="https://i.imgur.com/V4lbF3m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Teams to set up team-based collaboration across multiple departments. Create structured teams to group agents from different departments for specialized support. Assign agents to the Online Banking team to ensure efficient handling of banking-related inquiries and technical issues. This team-based support structure enhances workflow efficiency and improves cross-departmental coordination within the help desk system.
@@ -72,7 +72,7 @@ This structured agent assignment ensures efficient ticket routing, role-based ac
 <br />
 
 <p>
-<img src="https://i.imgur.com/D1Dpat4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Agent Panel → Users → Add New to register new users for submitting and tracking support requests. Add customers like Karen and Ken, granting them access to the help desk system. This user management setup ensures seamless customer interaction, efficient ticket tracking, and an organized support workflow for timely issue resolution. </p>
