@@ -108,6 +108,14 @@ Other
 This help topic structure enhances the user experience, ensures efficient ticket classification, and optimizes the support team’s workflow.
 </p>
 
+<h2> Now osTicket is Ready to Use! </h2>
+
+<br />
+
+[Tickets and Ticket Lifestyle](https://github.com/alexander-ustyan/osTicket3-Lab)
+
+<img src="https://i.imgur.com/UzfhvY5.png" height="80%" width="80%" alt="Done"/>
+
 <p> The next step is to set up email integration in osTicket to enable automatic ticket creation and notifications. Navigate to: 
 
 Admin Panel → Emails → Settings
