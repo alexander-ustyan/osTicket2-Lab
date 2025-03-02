@@ -28,7 +28,10 @@ This tutorial covers the post-installation configuration of osTicket, an open-so
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nUOEGUR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/QJ6fzqk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Access the Admin Panel → Agents → Roles to set up role-based permissions for improved security and access management. Create custom roles to define specific access levels for agents, ensuring proper control over system functions. Assign the Supreme Admin role to users requiring full administrative control. This implementation of Role-Based Access Control (RBAC) enhances security and ensures efficient user management within the help desk system.
@@ -36,7 +39,7 @@ Access the Admin Panel → Agents → Roles to set up role-based permissions for
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JwaTPtS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Departments to set up department-based ticket visibility for better workflow and access control. Create structured departments to categorize support requests efficiently. Assign the SysAdmins department to handle system administration-related tickets, ensuring proper ticket routing and visibility. This departmental structure enhances help desk efficiency and reinforces role-based access control for organized ticket management.
@@ -44,7 +47,7 @@ In osTicket, navigate to Admin Panel → Agents → Departments to set up depart
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n6A0NM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Teams to set up team-based collaboration across multiple departments. Create structured teams to group agents from different departments for specialized support. Assign agents to the Online Banking team to ensure efficient handling of banking-related inquiries and technical issues. This team-based support structure enhances workflow efficiency and improves cross-departmental coordination within the help desk system.
@@ -52,7 +55,7 @@ In osTicket, navigate to Admin Panel → Agents → Teams to set up team-based c
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rnb97fn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Settings → User Settings to manage ticket submission requirements. Adjust permissions by unchecking the "Unregistered users can create tickets" option to restrict anonymous ticket creation. Enable "Registration Required", ensuring that only registered users with login credentials can submit support requests. This enhances security, prevents spam tickets, and maintains an organized help desk system.
@@ -60,7 +63,7 @@ In osTicket, navigate to Admin Panel → Settings → User Settings to manage ti
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AFSwBMN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Add New to onboard new agents with specific departmental roles. Assign agents based on their responsibilities:
@@ -72,7 +75,7 @@ This structured agent assignment ensures efficient ticket routing, role-based ac
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hRh1P3Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Agent Panel → Users → Add New to register new users for submitting and tracking support requests. Add customers like Karen and Ken, granting them access to the help desk system. This user management setup ensures seamless customer interaction, efficient ticket tracking, and an organized support workflow for timely issue resolution. </p>
