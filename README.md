@@ -28,7 +28,7 @@ This tutorial covers the post-installation configuration of osTicket, an open-so
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/hYJTODO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Access the Admin Panel → Agents → Roles to set up role-based permissions for improved security and access management. Create custom roles to define specific access levels for agents, ensuring proper control over system functions. Assign the Supreme Admin role to users requiring full administrative control. This implementation of Role-Based Access Control (RBAC) enhances security and ensures efficient user management within the help desk system.
@@ -36,7 +36,7 @@ Access the Admin Panel → Agents → Roles to set up role-based permissions for
 <br />
 
 <p>
-<img src="https://i.imgur.com/A6trr4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Departments to set up department-based ticket visibility for better workflow and access control. Create structured departments to categorize support requests efficiently. Assign the SysAdmins department to handle system administration-related tickets, ensuring proper ticket routing and visibility. This departmental structure enhances help desk efficiency and reinforces role-based access control for organized ticket management.
@@ -52,7 +52,7 @@ In osTicket, navigate to Admin Panel → Agents → Teams to set up team-based c
 <br />
 
 <p>
-<img src="https://i.imgur.com/ec0Hxh1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Settings → User Settings to manage ticket submission requirements. Adjust permissions by unchecking the "Unregistered users can create tickets" option to restrict anonymous ticket creation. Enable "Registration Required", ensuring that only registered users with login credentials can submit support requests. This enhances security, prevents spam tickets, and maintains an organized help desk system.
@@ -60,7 +60,7 @@ In osTicket, navigate to Admin Panel → Settings → User Settings to manage ti
 <br />
 
 <p>
-<img src="https://i.imgur.com/YWupzkQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Agents → Add New to onboard new agents with specific departmental roles. Assign agents based on their responsibilities:
@@ -79,7 +79,7 @@ In osTicket, navigate to Agent Panel → Users → Add New to register new users
 <br />
 
 <p>
-<img src="https://i.imgur.com/YBqg50p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Manage → SLA to establish SLA policies that ensure timely ticket resolution based on severity levels:
@@ -92,7 +92,7 @@ This SLA framework helps optimize response times, prioritize urgent requests, an
 <br />
 
 <p>
-<img src="https://i.imgur.com/MmWnN7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, navigate to Admin Panel → Manage → Help Topics to create predefined categories for user inquiries. Set up structured help topics to improve ticket routing and resolution, including:
